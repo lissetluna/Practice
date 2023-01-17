@@ -10,4 +10,6 @@ using namespace std;
 int main()
 {
 	cout << "HI" << endl; 
+	cout << "<3" << endl; 
+	cout << ":)" << endl; 
 }
